@@ -112,7 +112,7 @@
 /* Header */
 
 .header1{
-    height: 80vh;
+    height: 100vh;
     width: 100%;
     background-image: url("header.jpg");
     background-size: cover;
@@ -120,7 +120,7 @@
     position: relative;
 }
 .header2{
-    height: 80vh;
+    height: 100vh;
     width: 100%;
     background-image: url("header2.jpg");
     background-size: cover;
